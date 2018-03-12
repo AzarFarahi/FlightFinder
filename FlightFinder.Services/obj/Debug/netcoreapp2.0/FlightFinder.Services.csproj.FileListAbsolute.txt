@@ -1,0 +1,11 @@
+c:\users\azar\source\repos\FlightsFinder\FlightFinder.Services\bin\Debug\netcoreapp2.0\FlightFinder.Model.dll
+c:\users\azar\source\repos\FlightsFinder\FlightFinder.Services\obj\Debug\netcoreapp2.0\FlightFinder.Services.csprojResolveAssemblyReference.cache
+c:\users\azar\source\repos\FlightsFinder\FlightFinder.Services\obj\Debug\netcoreapp2.0\FlightFinder.Services.csproj.CoreCompileInputs.cache
+c:\users\azar\source\repos\FlightsFinder\FlightFinder.Services\obj\Debug\netcoreapp2.0\FlightFinder.Services.AssemblyInfoInputs.cache
+c:\users\azar\source\repos\FlightsFinder\FlightFinder.Services\obj\Debug\netcoreapp2.0\FlightFinder.Services.AssemblyInfo.cs
+c:\users\azar\source\repos\FlightsFinder\FlightFinder.Services\bin\Debug\netcoreapp2.0\FlightFinder.Services.deps.json
+c:\users\azar\source\repos\FlightsFinder\FlightFinder.Services\bin\Debug\netcoreapp2.0\FlightFinder.Services.dll
+c:\users\azar\source\repos\FlightsFinder\FlightFinder.Services\bin\Debug\netcoreapp2.0\FlightFinder.Services.pdb
+c:\users\azar\source\repos\FlightsFinder\FlightFinder.Services\bin\Debug\netcoreapp2.0\FlightFinder.Model.pdb
+c:\users\azar\source\repos\FlightsFinder\FlightFinder.Services\obj\Debug\netcoreapp2.0\FlightFinder.Services.dll
+c:\users\azar\source\repos\FlightsFinder\FlightFinder.Services\obj\Debug\netcoreapp2.0\FlightFinder.Services.pdb
